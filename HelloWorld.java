@@ -6,6 +6,6 @@ class HelloWorld {
 	// Prints "Hello, World" to the terminal window.
 	public static void main(String args[])
 	{
-		System.out.println("This is the first sample java program to automation123");
+		System.out.println("This is the first sample java program to automation12356");
 	}
 }
